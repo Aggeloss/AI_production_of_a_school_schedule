@@ -1,0 +1,27 @@
+INF161, Algorithms, 2, A
+INF161, Algorithms, 2, B
+INF161, Algorithms, 2, C
+
+MISC150, English, 4, A
+MISC150, English, 4, B
+MISC150, English, 4, C
+
+MISC140, Greek, 6, A
+MISC140, Greek, 6, B
+MISC140, Greek, 6, C
+
+MISC130, Ancient Greek, 4, A
+MISC130, Ancient Greek, 4, B
+MISC130, Ancient Greek, 4, C
+
+MISC160, Greek Literature, 4, A
+MISC160, Greek Literature, 4, B
+MISC160, Greek Literature, 4, C
+
+SCI120, Physics, 4, A
+SCI120, Physics, 4, B
+SCI120, Physics, 4, C
+
+SCI150, Chemistry, 2, A
+SCI150, Chemistry, 2, B
+SCI150, Chemistry, 2, C

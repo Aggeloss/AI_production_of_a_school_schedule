@@ -1,0 +1,1401 @@
+Extra information regarding score of the schedule.
+getScoreBasedOnEmptyTimeslotsBetweenLessons: 
+0
+getScoreBasedOnSimilarlyDistributedAmountOfHoursPerDay: 
+0
+getScoreBasedOnSimilarDistributedAmountOfHoursPerLesson: 
+44
+getScoreBasedOnSimilarlyDistributedAmountOfWorkingHoursPerTeacher: 
+92
+getScoreBasedOnAllLessonsPerDepartmentTeached: 
+0
+getScoreBasedOnTeacherShouldBeInOnePlace: 
+8
+getScorefromBasedOnMaxConsecutiveTeacherHours: 
+0
+getScoreBasedOnMaxWeeklyHoursOfTeacher: 
+7
+Total score: 
+15136
+------ Day 1 ------
+1 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 A
+Class  : A1
+
+2 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+3 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A1
+
+4 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 A
+Class  : A2
+
+2 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A2
+
+3 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+2 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A3
+
+3 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 A
+Class  : A3
+
+4 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+2 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 B
+Class  : B1
+
+3 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+4 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 B
+Class  : B1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 B
+Class  : B2
+
+2 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B2
+
+3 hour : 
+Teacher : Rizos Nick
+Lesson : Chemistry SCI150 2 B
+Class  : B2
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B3
+
+2 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 B
+Class  : B3
+
+3 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 B
+Class  : B3
+
+4 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 B
+Class  : B3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+2 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 C
+Class  : C1
+
+3 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 C
+Class  : C1
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 C
+Class  : C2
+
+2 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 C
+Class  : C2
+
+3 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+4 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 C
+Class  : C2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C3
+
+2 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 C
+Class  : C3
+
+3 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Chemistry SCI150 2 C
+Class  : C3
+
+4 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 C
+Class  : C3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+------ Day 2 ------
+1 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+2 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A1
+
+3 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 A
+Class  : A1
+
+4 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 A
+Class  : A1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 A
+Class  : A2
+
+2 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 A
+Class  : A2
+
+3 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 A
+Class  : A2
+
+4 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+2 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+3 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A3
+
+4 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 A
+Class  : A3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 B
+Class  : B1
+
+2 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 B
+Class  : B1
+
+3 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B1
+
+4 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 B
+Class  : B1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B2
+
+2 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B2
+
+3 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+4 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 B
+Class  : B2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B3
+
+2 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 B
+Class  : B3
+
+3 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B3
+
+4 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 B
+Class  : B3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C1
+
+2 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 C
+Class  : C1
+
+3 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 C
+Class  : C1
+
+4 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 C
+Class  : C1
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 C
+Class  : C2
+
+2 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 C
+Class  : C2
+
+3 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 C
+Class  : C2
+
+4 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 C
+Class  : C2
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 C
+Class  : C3
+
+2 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+3 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C3
+
+4 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 C
+Class  : C3
+
+5 hour : 
+
+6 hour : 
+
+7 hour : 
+
+-------------------
+------ Day 3 ------
+1 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 A
+Class  : A1
+
+2 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 A
+Class  : A1
+
+3 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A1
+
+4 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 A
+Class  : A1
+
+5 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A1
+
+6 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 A
+Class  : A2
+
+2 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 A
+Class  : A2
+
+3 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 A
+Class  : A2
+
+4 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+5 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+6 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 A
+Class  : A2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 A
+Class  : A3
+
+2 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 A
+Class  : A3
+
+3 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 A
+Class  : A3
+
+4 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 A
+Class  : A3
+
+5 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 A
+Class  : A3
+
+6 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 A
+Class  : A3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 B
+Class  : B1
+
+2 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 B
+Class  : B1
+
+3 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B1
+
+4 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+5 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+6 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+2 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+3 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+4 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 B
+Class  : B2
+
+5 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 B
+Class  : B2
+
+6 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 B
+Class  : B2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 B
+Class  : B3
+
+2 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 B
+Class  : B3
+
+3 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 B
+Class  : B3
+
+4 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+5 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 B
+Class  : B3
+
+6 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 C
+Class  : C1
+
+2 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 C
+Class  : C1
+
+3 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+4 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+5 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 C
+Class  : C1
+
+6 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 C
+Class  : C1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 C
+Class  : C2
+
+2 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C2
+
+3 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C2
+
+4 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 C
+Class  : C2
+
+5 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+6 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 C
+Class  : C3
+
+2 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C3
+
+3 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 C
+Class  : C3
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C3
+
+5 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C3
+
+6 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+7 hour : 
+
+-------------------
+------ Day 4 ------
+1 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A1
+
+2 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 A
+Class  : A1
+
+3 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 A
+Class  : A1
+
+4 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+5 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+6 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 A
+Class  : A1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+2 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 A
+Class  : A2
+
+3 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+4 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 A
+Class  : A2
+
+5 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 A
+Class  : A2
+
+6 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+2 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Chemistry SCI150 2 A
+Class  : A3
+
+3 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 A
+Class  : A3
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A3
+
+5 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+6 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 A
+Class  : A3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+2 hour : 
+Teacher : Rizos Nick
+Lesson : Chemistry SCI150 2 B
+Class  : B1
+
+3 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B1
+
+4 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 B
+Class  : B1
+
+5 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 B
+Class  : B1
+
+6 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 B
+Class  : B1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 B
+Class  : B2
+
+2 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 B
+Class  : B2
+
+3 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 B
+Class  : B2
+
+4 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+5 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 B
+Class  : B2
+
+6 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B3
+
+2 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 B
+Class  : B3
+
+3 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 B
+Class  : B3
+
+4 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+5 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 B
+Class  : B3
+
+6 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+2 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+3 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C1
+
+4 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C1
+
+5 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 C
+Class  : C1
+
+6 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 C
+Class  : C1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+2 hour : 
+Teacher : Rizos Nick
+Lesson : Chemistry SCI150 2 C
+Class  : C2
+
+3 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C2
+
+4 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+5 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 C
+Class  : C2
+
+6 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 C
+Class  : C2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+2 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 C
+Class  : C3
+
+3 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 C
+Class  : C3
+
+4 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 C
+Class  : C3
+
+5 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Chemistry SCI150 2 C
+Class  : C3
+
+6 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+7 hour : 
+
+-------------------
+------ Day 5 ------
+1 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 A
+Class  : A1
+
+2 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 A
+Class  : A1
+
+3 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 A
+Class  : A1
+
+4 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 A
+Class  : A1
+
+5 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A1
+
+6 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 A
+Class  : A1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 A
+Class  : A2
+
+2 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : English MISC150 4 A
+Class  : A2
+
+3 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 A
+Class  : A2
+
+4 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 A
+Class  : A2
+
+5 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 A
+Class  : A2
+
+6 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 A
+Class  : A2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 A
+Class  : A3
+
+2 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 A
+Class  : A3
+
+3 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek Literature MISC160 4 A
+Class  : A3
+
+4 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 A
+Class  : A3
+
+5 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 A
+Class  : A3
+
+6 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 A
+Class  : A3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B1
+
+2 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 B
+Class  : B1
+
+3 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Greek MISC140 6 B
+Class  : B1
+
+4 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B1
+
+5 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 B
+Class  : B1
+
+6 hour : 
+Teacher : Rizos Nick
+Lesson : Chemistry SCI150 2 B
+Class  : B1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 B
+Class  : B2
+
+2 hour : 
+Teacher : Katseni Asimina
+Lesson : Greek Literature MISC160 4 B
+Class  : B2
+
+3 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 B
+Class  : B2
+
+4 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 B
+Class  : B2
+
+5 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B2
+
+6 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 B
+Class  : B2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Papaxristou Stavros
+Lesson : Algorithms INF161 2 B
+Class  : B3
+
+2 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B3
+
+3 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 B
+Class  : B3
+
+4 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+5 hour : 
+Teacher : Kefalonitou Katherine
+Lesson : Greek MISC140 6 B
+Class  : B3
+
+6 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 B
+Class  : B3
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Tsouxnika Vicky
+Lesson : Physics SCI120 4 C
+Class  : C1
+
+2 hour : 
+Teacher : Apostolidis Vaggelis
+Lesson : Ancient Greek MISC130 4 C
+Class  : C1
+
+3 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Greek MISC140 6 C
+Class  : C1
+
+4 hour : 
+Teacher : Mitropoulou Adamadia
+Lesson : English MISC150 4 C
+Class  : C1
+
+5 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C1
+
+6 hour : 
+Teacher : Fassaros Leonidas
+Lesson : Chemistry SCI150 2 C
+Class  : C1
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek Literature MISC160 4 C
+Class  : C2
+
+2 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C2
+
+3 hour : 
+Teacher : Bibiski Dimitra
+Lesson : Algorithms INF161 2 C
+Class  : C2
+
+4 hour : 
+Teacher : Adamadopoulos Tasos
+Lesson : Greek MISC140 6 C
+Class  : C2
+
+5 hour : 
+Teacher : Rizos Nick
+Lesson : Chemistry SCI150 2 C
+Class  : C2
+
+6 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 C
+Class  : C2
+
+7 hour : 
+
+-------------------
+1 hour : 
+Teacher : Adamantopoulos Giwrgos
+Lesson : Ancient Greek MISC130 4 C
+Class  : C3
+
+2 hour : 
+Teacher : Papanikolaou Tilemaxos
+Lesson : Physics SCI120 4 C
+Class  : C3
+
+3 hour : 
+Teacher : Kretsi Georgia
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+4 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Greek MISC140 6 C
+Class  : C3
+
+5 hour : 
+Teacher : Kretsi Georgia
+Lesson : English MISC150 4 C
+Class  : C3
+
+6 hour : 
+Teacher : Papadimitiou Alexandra
+Lesson : Ancient Greek MISC130 4 C
+Class  : C3
+
+7 hour : 
+
+-------------------

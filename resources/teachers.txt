@@ -1,0 +1,19 @@
+//INF161 - 6, MISC150 - 12, MISC140 - 18, MISC130 - 12, MISC160 - 12, SCI120 - 12, SCI150 - 6
+
+T01, Bibiski Dimitra, 10, INF161
+T02, Kefalonitou Katherine, 10, MISC150, MISC140
+T03, Kretsi Georgia, 10, MISC150, MISC140
+T04, Katseni Asimina, 20, MISC140, MISC160
+
+T05, Adamadopoulos Tasos, 20, MISC140, MISC160
+T06, Apostolidis Vaggelis, 15, MISC140, MISC130
+T07, Liondas Nikolaos, 10, MISC100,
+T08, Tsouxnika Vicky, 15, SCI120
+T09, Rizos Nick, 5, SCI150
+T10, Fassaros Leonidas, 10, SCI150
+
+T11, Mitropoulou Adamadia, 10, MISC150
+T12, Papadimitiou Alexandra, 15, MISC140, MISC130, MISC160
+T13, Papaxristou Stavros, 20, INF161
+T14, Adamantopoulos Giwrgos, 10, MISC140, MISC130
+T15, Papanikolaou Tilemaxos, 15, SCI120, SCI150
